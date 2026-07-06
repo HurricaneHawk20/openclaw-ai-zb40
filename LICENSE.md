@@ -1,4 +1,4 @@
-# 
+# Turbo OpenClaw plantillas. Con control de versiones y gestión de memoria — optimizado para el máximo rendimiento y eficiencia.
 
 
 
